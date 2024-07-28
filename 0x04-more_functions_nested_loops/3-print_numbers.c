@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * print_numbers - prints the numbers 0 to 9
- *
- */
+*print_numbers - print 0123456789
+* owned by Bwave ICT
+*Return: void
+*/
 void print_numbers(void)
 {
 	char c;
